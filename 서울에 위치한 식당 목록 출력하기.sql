@@ -1,6 +1,4 @@
-/*
-https://school.programmers.co.kr/learn/courses/30/lessons/131118
-*/
+-- https://school.programmers.co.kr/learn/courses/30/lessons/131118
 SELECT
     I.REST_ID,
     I.REST_NAME,
